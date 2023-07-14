@@ -19,6 +19,9 @@ O Script organizador.py cria e coloca em pasta os arquivos de acordo com o seu t
   <img alt="projeto Chat" src=".github/antes.png" width="50%">
 </p>
 <p align="center"> DEPOIS <br/></p>
+<p align="center">
+O Script desorganizador.py faz o inverso!<br/>
+</p>
 
 <p align="center">
   <img alt="projeto Chat" src=".github/depois.png" width="50%">
